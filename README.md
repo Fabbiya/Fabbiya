@@ -1,6 +1,6 @@
 ### Hi there 👋, Farnaz Bagheri
 #### Full stack Developer
-![Full stack Developer](https://twitter.com/fabbiye/header_photo)
+![Full stack Developer](https://pbs.twimg.com/profile_banners/3163725218/1662476956/1500x500)
 
 I am Farnaz from Dubai, a solution-oriented full-stack developer in both blockchain and web2 and a lifelong learner with a professional background in Information Technology and coding. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
