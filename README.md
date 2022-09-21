@@ -5,12 +5,16 @@
 I am Farnaz from Dubai, a solution-oriented full-stack developer in both blockchain and web2 and a lifelong learner with a professional background in Information Technology and coding. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
 ## Skills & Experience:
-* :atom_symbol: React
+* :large_orange_diamond: Solidity                * :large_orange_diamond: Web3                 * :large_orange_diamond: React
+* :large_orange_diamond: Nextjs                  * :large_orange_diamond: Restful APIs         * :large_orange_diamond: Nodejs
+* :large_orange_diamond: .Net Core               * :large_orange_diamond: ASP .Net             * :large_orange_diamond: Xamarin
+* :large_orange_diamond: C#                      * :large_orange_diamond: Windows Application  * :large_orange_diamond: MVVM & MVC
+* :large_orange_diamond: Solidity                * :large_orange_diamond: Web3                 * :large_orange_diamond: React
+* :large_orange_diamond: SQL Server              * :large_orange_diamond: MongoDB.             * :large_orange_diamond: Azure
 
 
-Skills: Solidity | Web3 | Read and write from/to smart contract | Smart contract deployment | React | Nextjs | Restful APIs | JSON parsing | Postman | Nodejs .Net Core | ASP.Net | Xamarin | C# | Windows Application | MVVM & MVC | Object Oriented Programming Git | Github | Figma | SQL Server | SQL MS | Mongo DB  Photoshop | Logo Design | Illustrator
+* Other Skills: Figma | Photoshop | Logo Design | Illustrator
 
-- 🔭 I’m currently working on my own company 
 - 📫 How to reach me: farnaz@blockchainfar.com 
 
 
