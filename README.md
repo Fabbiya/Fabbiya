@@ -19,7 +19,7 @@ I am Farnaz from Dubai, a solution-oriented full-stack developer in both blockch
 - 📫 How to reach me: farnaz@blockchainfar.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fabbiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fa-bi-a6973282/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.webdevelopmentuae.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:white; margin:10px;">](https://github.com/fabbiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color:white; margin:10px;">](https://www.linkedin.com/in/fa-bi-a6973282/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="color:white; margin:10px;">](https://www.webdevelopmentuae.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabbiya)](https://github.com/anuraghazra/github-readme-stats)
 
