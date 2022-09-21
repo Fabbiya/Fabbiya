@@ -1,16 +1,16 @@
 # Farnaz Bagheri
 ## Full stack Developer
-![Full stack Developer](https://pbs.twimg.com/profile_banners/3163725218/1662476956/1500x500)
+![Full stack Developer](https://github.com/Fabbiya/Fabbiya/blob/main/1500x500.jpeg)
 
 I am Farnaz from Dubai, a solution-oriented full-stack developer in both blockchain and web2 and a lifelong learner with a professional background in Information Technology and coding. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
 ## Skills & Experience:
-* :large_orange_diamond: Solidity                * :large_orange_diamond: Web3                 * :large_orange_diamond: React
-* :large_orange_diamond: Nextjs                  * :large_orange_diamond: Restful APIs         * :large_orange_diamond: Nodejs
-* :large_orange_diamond: .Net Core               * :large_orange_diamond: ASP .Net             * :large_orange_diamond: Xamarin
-* :large_orange_diamond: C#                      * :large_orange_diamond: Windows Application  * :large_orange_diamond: MVVM & MVC
-* :large_orange_diamond: Solidity                * :large_orange_diamond: Web3                 * :large_orange_diamond: React
-* :large_orange_diamond: SQL Server              * :large_orange_diamond: MongoDB.             * :large_orange_diamond: Azure
+:large_orange_diamond: Solidity                :large_orange_diamond: Web3                 :large_orange_diamond: React
+:large_orange_diamond: Nextjs                  :large_orange_diamond: Restful APIs         :large_orange_diamond: Nodejs
+:large_orange_diamond: .Net Core               :large_orange_diamond: ASP .Net             :large_orange_diamond: Xamarin
+:large_orange_diamond: C#                      :large_orange_diamond: Windows Application  :large_orange_diamond: MVVM & MVC
+:large_orange_diamond: Solidity                :large_orange_diamond: Web3                 :large_orange_diamond: React
+:large_orange_diamond: SQL Server              :large_orange_diamond: MongoDB.             :large_orange_diamond: Azure
 
 
 * Other Skills: Figma | Photoshop | Logo Design | Illustrator
