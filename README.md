@@ -9,7 +9,6 @@ I am Farnaz from Dubai, a solution-oriented full-stack developer in both blockch
 :large_orange_diamond: Nextjs                  :large_orange_diamond: Restful APIs         :large_orange_diamond: Nodejs
 :large_orange_diamond: .Net Core               :large_orange_diamond: ASP .Net             :large_orange_diamond: Xamarin
 :large_orange_diamond: C#                      :large_orange_diamond: Windows Application  :large_orange_diamond: MVVM & MVC
-:large_orange_diamond: Solidity                :large_orange_diamond: Web3                 :large_orange_diamond: React
 :large_orange_diamond: SQL Server              :large_orange_diamond: MongoDB             :large_orange_diamond: Azure
 :large_orange_diamond: UI/UX              :large_orange_diamond: Logo Design             
 
