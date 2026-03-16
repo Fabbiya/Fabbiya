@@ -1,21 +1,120 @@
 # Farnaz Bagheri
-### Full stack Developer
-![Full stack Developer](https://github.com/Fabbiya/Fabbiya/blob/main/1500x500.jpeg)
 
-I am Farnaz from Dubai, a solution-oriented full-stack developer in both blockchain and web2 and a lifelong learner with a professional background in Information Technology and coding. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
+Software engineer focused on **payment infrastructure, POS systems, and fintech architecture**.
 
-## Skills & Experience:
-:large_orange_diamond: Solidity                :large_orange_diamond: Web3                 :large_orange_diamond: React
-:large_orange_diamond: Nextjs                  :large_orange_diamond: Restful APIs         :large_orange_diamond: Nodejs
-:large_orange_diamond: .Net Core               :large_orange_diamond: ASP .Net             :large_orange_diamond: Xamarin
-:large_orange_diamond: C#                      :large_orange_diamond: Windows Application  :large_orange_diamond: MVVM & MVC
-:large_orange_diamond: SQL Server              :large_orange_diamond: MongoDB             :large_orange_diamond: Azure
-:large_orange_diamond: UI/UX              :large_orange_diamond: Logo Design             
+My work explores the architectural challenges behind modern payment platforms, including processor fragmentation, POS integrations, payment orchestration systems, and offline-capable transaction processing.
 
-## Examples of Work
-<img src="https://github.com/Fabbiya/Fabbiya/blob/main/mainImage.25bbec66bebab24c5859.png"/>
+I build and document engineering approaches that help POS platforms become more modular, resilient, and processor-agnostic.
 
-- 📫 How to reach me: farnaz@blockchainfar.com 
+---
+
+## Areas of Interest
+
+• Payment Infrastructure  
+• POS Platform Architecture  
+• Payment Orchestration Systems  
+• Fintech Systems Design  
+• Distributed Backend Systems  
+• Offline Transaction Processing  
+• Developer Platforms for Payments
+
+---
+
+## Current Focus
+
+I am currently researching and building reference implementations around:
+
+- **Payment orchestration architectures**
+- **Processor-agnostic payment APIs**
+- **Offline-capable POS payment flows**
+- **Resilient payment retry and failover systems**
+- **Scalable fintech backend infrastructure**
+
+These projects aim to demonstrate modern approaches to building reliable payment platforms for POS ecosystems.
+
+---
+
+## Technical Stack
+
+**Backend**
+
+Node.js  
+Python  
+MongoDB  
+Docker  
+NGINX  
+
+**Frontend**
+
+React.js  
+Modern JavaScript frameworks
+
+**Infrastructure**
+
+Cloud-based backend systems  
+Containerized deployments  
+API-based payment integrations
+
+---
+
+## Articles & Research
+
+I regularly write about engineering challenges in payment infrastructure and POS platforms.
+
+Recent articles:
+
+• *Why Payment Infrastructure for POS Systems Is Still Broken*  
+• *Designing Unified Payment Orchestration Architecture for POS SaaS Platforms*  
+• *Designing Offline-Capable Payment Systems for Modern POS Platforms*  
+• *The Hidden Problem of Payment Processor Fragmentation in POS Systems*
+
+Full articles available on my website:
+
+https://www.farnazbagheri.com
+
+---
+
+## Selected Projects
+
+This GitHub profile includes projects and reference implementations related to:
+
+• POS platform backend systems  
+• payment processing integrations  
+• infrastructure tooling for SaaS platforms  
+• distributed system architecture examples  
+
+Many repositories include architectural diagrams and example implementations demonstrating approaches discussed in my articles.
+
+---
+
+## Website
+
+https://www.farnazbagheri.com
+
+---
+
+## LinkedIn
+
+[🔗 Farnaz Bagheri](https://www.linkedin.com/in/farnaz-bagheri-7a78733b6/)
+
+---
+
+## Open Source & Collaboration
+
+I am interested in collaborating on projects related to:
+
+• payment infrastructure  
+• fintech developer platforms  
+• POS system architecture  
+• distributed backend systems  
+
+If you are working on similar challenges in the fintech or payment infrastructure space, feel free to connect.
+
+---
+
+## Focus
+
+Building more **open, modular, and resilient payment infrastructure for modern POS ecosystems.**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:white; margin:10px;">](https://github.com/fabbiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color:white; margin:10px;">](https://www.linkedin.com/in/fa-bi-a6973282/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style="color:white; margin:10px;">](https://www.webdevelopmentuae.com)  
